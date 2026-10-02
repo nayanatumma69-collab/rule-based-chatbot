@@ -55,7 +55,7 @@ This project helped me understand:
 
 Open the Jupyter Notebook or Google Colab file:
 
-`Rule_Based_Chatbot.ipynb`
+`Chatbot.ipynb`
 
 Run the cells sequentially and interact with the chatbot.
 
